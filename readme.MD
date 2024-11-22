@@ -6,7 +6,8 @@
 2. second
 3. third
 
-# egg-Dosa
+# Egg Dosa
 * Dosa Flour
-* 3 eggs
+* 1 Egg
 * karam
+
