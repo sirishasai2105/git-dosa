@@ -10,3 +10,9 @@
 * Dosa Flour
 * 3 eggs
 * karam
+
+# special-Dosa
+* dosa batter
+* bombai chutney
+* podi
+* oil
