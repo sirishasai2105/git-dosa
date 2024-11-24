@@ -11,3 +11,9 @@
 * 1 Egg
 * karam
 
+# panneer masala Dosa
+* dosa batter
+* panneer
+
+# special-dosa
+* dosa batter
